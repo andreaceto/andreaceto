@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 <h1 align="center">Hi 👋, I'm Andrea Aceto</h1>
 <h3 align="center">A Computer Science student from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif">
