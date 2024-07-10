@@ -23,8 +23,6 @@
 </table>
 
 ## Stats ​📊​
-<div>
-  <img height=400 width=400 src="https://github-readme-stats.vercel.app/api?username=andreaceto&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Andreaceto Stats">
-  <img height=400 width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=andreaceto&theme=react&hide_border=true" alt="Andreaceto Streak">
-</div>
+![andreaceto's Stats](https://github-readme-stats.vercel.app/api?username=andreaceto&theme=react&show_icons=true&hide_border=true&count_private=true)
+![andreaceto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreaceto&theme=react&hide_border=true)
 
