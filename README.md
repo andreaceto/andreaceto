@@ -23,6 +23,14 @@
 </table>
 
 ## Stats ​📊​
-![andreaceto's Stats](https://github-readme-stats.vercel.app/api?username=andreaceto&theme=react&show_icons=true&hide_border=true&count_private=true)
-![andreaceto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreaceto&theme=react&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=andreaceto&theme=react&show_icons=true&hide_border=true&count_private=true" alt="andreaceto's Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreaceto&theme=react&hide_border=true" alt="andreaceto's Streak">
+    </td>
+  </tr>
+</table>
 
